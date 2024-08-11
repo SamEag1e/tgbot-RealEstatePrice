@@ -15,6 +15,13 @@ git clone https://github.com/SamEag1e/tgbot-RoofRealEstatePrice.git
 ```
 cd tgbot-RoofRealEstatePrice
 ```
+3. Create a virtual environment:
+```
+python -m venv env
+```
+* Activate the virtual environment:
+  * On Windows: ```.\env\Scripts\activate```
+  * On macOS and Linux: ```source env/bin/activate```
 * Install the required dependencies:
 ```
 pip install -r requirements.txt
